@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: semashibaev.ifmo.server.ConnectionReception
+Class-Path: src/semashibaev/ifmo/server/ConnectionReception.java
+
